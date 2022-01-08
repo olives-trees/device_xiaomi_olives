@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/baikalos_olives.mk
+    $(LOCAL_DIR)/ancient_olives.mk
 
 COMMON_LUNCH_CHOICES := \
-    baikalos_olives-user \
-    baikalos_olives-userdebug \
-    baikalos_olives-eng
+    ancient_olives-user \
+    ancient_olives-userdebug \
+    ancient_olives-eng

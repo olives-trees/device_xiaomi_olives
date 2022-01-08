@@ -25,11 +25,7 @@
     <string name="config_batChargeCycle">/sys/class/power_supply/battery/cycle_count</string>
     <string name="config_batDesCap">/sys/class/power_supply/battery/charge_full</string>
     <string name="config_batCurCap">/sys/class/power_supply/battery/charge_counter</string>
-    <string name="config_batHealth">/sys/class/power_supply/battery/health</string>
-    <string name="config_batType">/sys/class/power_supply/battery/health/technology</string>
     <bool name="config_supportBatteryHealth">true</bool>
-    <integer name="config_batCurCapDivider">1000</integer>
-    <integer name="config_batDesCapDivider">1000</integer>
 
     <!-- Smart Charging -->
     <bool name="config_supportSmartCharging">true</bool>

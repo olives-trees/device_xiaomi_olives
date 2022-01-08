@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (C) 2019-2020 Ancient-OS
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Product -->
+    <string name="device_category_asus_title" translatable="false">Asus</string>
+    <string name="device_category_motorola_title" translatable="false">Motorola</string>
+    <string name="device_category_nokia_title" translatable="false">Nokia</string>
+    <string name="device_category_oneplus_title" translatable="false">OnePlus</string>
+    <string name="device_category_poco_title" translatable="false">Poco</string>
+    <string name="device_category_realme_title" translatable="false">Ralme</string>
+    <string name="device_category_xiaomi_title" translatable="false">Xaomi</string>
+
+    <!-- Device -->
+    <string name="device_Z01R" translatable="false">Asus Zenfone 5Z</string>
+    <string name="device_Z01R_summary" translatable="false">Z01R\nAyan Mukherjee (ayanm09)</string>
+ 
+    <string name="device_X00T" translatable="false">Asus Zenfone Max Pro M1</string>
+    <string name="device_X00T_summary" translatable="false">X00T\nkndroid</string>
+
+    <string name="device_payton" translatable="false">Motorola</string>
+    <string name="device_payton_summary" translatable="false">payton\nYukki159</string>
+
+    <string name="device_PL2" translatable="false">Nokia 6.1 2018</string>
+    <string name="device_PL2_summary" translatable="false">PL2\nAnkit Kene (ankitkene)</string>
+
+    <string name="device_DRG" translatable="false">Nokia 6.1 PLUS</string>
+    <string name="device_DRG_summary" translatable="false">DRG\nAnkit Kene (ankitkene)</string>
+
+    <string name="device_enchilada" translatable="false">Oneplus 6</string>
+    <string name="device_enchilada_summary" translatable="false">enchilada\nNeoTheSavage</string>
+
+    <string name="device_lemonadep" translatable="false">oneplus 9 pro</string>
+    <string name="device_lemonadep_summary" translatable="false">lemonadep\nNeoTheSavage</string>
+
+    <string name="device_lmi" translatable="false">Poco F2 pro/ Redmi k30 Pro</string>
+    <string name="device_lmi_summary" translatable="false">lmi\nsoumyo19</string>
+
+    <string name="device_alioth" translatable="false">Poco f3 / Redmi k40 /Mi 11X</string>
+    <string name="device_alioth_summary" translatable="false">alioth\ndreamfan92\nsoumyo19</string>
+
+    <string name="device_phoenix" translatable="false">Poco X2</string>
+    <string name="device_phoenix_summary" translatable="false">phonenix\nbibindasb</string>
+
+    <string name="device_surya" translatable="false">Poco X3</string>
+    <string name="device_surya_summary" translatable="false">surya\nehkagetgue</string>
+
+    <string name="device_vayu" translatable="false">Poco X3 pro</string>
+    <string name="device_vayu_summary" translatable="false">vayu\nLuckyVii</string>
+
+    <string name="device_CPH159" translatable="false">Realme 1</string>
+    <string name="device_CPH159_summary" translatable="false">CPH159\nI_am_pronoob</string>
+
+    <string name="device_RMX1801" translatable="false">Realme 2 Pro</string>
+    <string name="device_RMX1801_summary" translatable="false">RMX1801\nIrawans (dodyirawan85)</string>
+
+    <string name="device_RMX1851" translatable="false">Realme 3 Pro</string>
+    <string name="device_RMX1851_summary" translatable="false">RMX1851\nV3NK4135H</string>
+
+    <string name="device_r5x" translatable="false">Realme 5 series</string>
+    <string name="device_r5x_summary" translatable="false">r5x\nNaryVip</string>
+
+    <string name="device_RMX1971" translatable="false">Realme 5 Pro</string>
+    <string name="device_RMX1971_summary" translatable="false">RMX1971\nA1KARA</string>
+
+    <string name="device_RMX1901" translatable="false">Realme X</string>
+    <string name="device_RMX1901_summary" translatable="false">RMX1901\nSatham Hussain (Sathamspot)</string>
+
+    <string name="device_RMX1921" translatable="false">Realme XT</string>
+    <string name="device_RMX1921_summary" translatable="false">RMX1921\nKader Bava (kaderbava)</string>
+
+    <string name="device_RMX2081" translatable="false"> Realme X3/X3 SZ</string>
+    <string name="device_RMX_2081_summary" translatable="false">RMX2081\nNishantKumar6342</string>
+
+    <string name="device_ysl" translatable="false">Xiaomi Redmi S2/Y2</string> 
+    <string name="device_ysl_summary" translatable="false">ysl\ndustxyz -</string>
+
+    <string name="device_mido" translatable="false">Xiaomi Redmi Note 4X</string>
+    <string name="device_mido_summary" translatable="false">mido\nSmokey (smokey_18)</string>
+
+    <string name="device_ulysse" translatable="false">Redmi note 5A prime/lite</string>
+    <string name="device_ulysse_summary" translatable="false">ulysse\nadislice</string>
+
+    <string name="device_whyred" translatable="false">Redmi  note 5 pro</string>
+    <string name="device_whyred_summary" translatable="false">whyred\nAdrarHussain</string>
+
+    <string name="device_sakura" translatable="false">Xiaomi Redmi 6 Pro</string>
+    <string name="device_sakura_summary" translatable="false">sakura\nSoumyajit Paul (soumyajit007-creator)</string>
+
+    <string name="device_onclite" translatable="false">Xiaomi Redmi 7</string>
+    <string name="device_onclite_summary" translatable="false">onclite\nSoumyajit Paul (soumyajit007-creator)</string>
+
+    <string name="device_lavender" translatable="false">Xiaomi Redmi Note 7</string>
+    <string name="device_lavender_summary" translatable="false">lavender\nBaguaisson</string>
+
+    <string name="device_violet" translatable="false">Xiaomi Redmi Note 7 Pro </string>
+    <string name="device_violet_summary" translatable="false">violet\nReza Adi Pangestu (rezaadi0105)</string>
+
+    <string name="device_olives" translatable="false">Xiaomi Redmi 8/8A/8A Dual</string>
+    <string name="device_olives_summary" translatable="false">olives\skittels15</string>
+
+    <string name="device_ginkgo" translatable="false">Xiaomi Redmi Note 8</string>
+    <string name="device_ginkgo_summary" translatable="false">ginkgo\nhetdahwin </string>
+
+    <string name="device_begonia" translatable="false">Xiaomi Redmi 8 Pro</string>
+    <string name="device_begonia_summary" translatable="false">begonia\nthepsambit</string>
+	
+    <string name="device_miatoll" translatable="false"> Redmi Note 9S/Pro/Pro Max/Poco M2 Pro</string>
+    <string name="device_miatoll_summary" translatable="false">miatol\nThisIsTag</string>
+
+    <string name="device_lava" translatable="false">Redmi 9 / Poco M2 </string>
+    <string name="device_lava_summary" translatable="false">lava\nhenloboi</string>
+	
+    <string name="device_juice" translatable="false">Redmi 9T NFC/9 Power/Note 9 4G/POCO M3</string>
+    <string name="device_juice_summary" translatable="false">juice\nAnkit Kene</string>
+
+    <string name="device_sweet" translatable="false">Redmi note 10 pro</string>
+    <string name="device_sweet_summary" translatable="false">sweet\nbrucetech</string>
+
+    <string name="device_mojito" translatable="false">Redmi note 10 </string>
+    <string name="device_mojito_summary" translatable="false">mojito\nhikarinochikara</string>
+
+    <string name="device_raphael" translatable="false">Xiaomi Redmi K20 Pro</string>
+    <string name="device_raphael_summary" translatable="false">raphael\nWadie Habib </string>
+	
+    <string name="device_davinci" translatable="false">Xiaomi Redmi K20/MI 9T</string>
+    <string name="device_davinci_summary" translatable="false">davinci\nSVB_22</string>
+
+    <string name="device_laurel_sprout" translatable="false">Xiaomi MI A3</string>
+    <string name="device_laurel_sprout_summary" translatable="false">laurel_sprout\nmagicxavi</string>
+	
+    <string name="device_dipper" translatable="false">Xiaomi MI 8</string>
+    <string name="device_dipper_summary" translatable="false">dipper\nnamaskaragusthi</string>
+
+    <string name="device_platina" translatable="false">Xiaomi MI 8 lite</string>
+    <string name="device_platina_summary" translatable="false">platina\nwhothefvckareyou</string>
+
+    <string name="device_Apollo" translatable="false">Xiaomi MI 10T</string>
+    <string name="device_Apollo_summary" translatable="false">Apollo\naarunalr</string>
+
+</resources>

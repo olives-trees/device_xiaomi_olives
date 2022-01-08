@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* //device/apps/common/assets/res/any/strings.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Button that copies the url to the log of a crashed application -->
+    <string name="aerr_copy">Скопировать URL ошибки</string>
+    <string name="url_copy_success">Ссылка успешно скопирована</string>
+    <string name="url_copy_failed">Произошла ошибка при отправке лога на Hastebin</string>
+
+    <!-- Reboot -->
+    <string name="reboot_to_recovery_title" translatable="false">Рекавери</string>
+    <string name="reboot_to_recovery_message" translatable="false">Перезагрузка в рекавери</string>
+    <string name="reboot_to_bootloader_title" translatable="false">Загрузчик</string>
+    <string name="reboot_to_bootloader_message" translatable="false">Перезагрузка в загрузчик</string>
+    <string name="reboot_title">Перезагрузка</string>
+    <string name="reboot_message">Перезагрузка системы</string>
+    
+    <!-- Cycle through ringer modes -->
+    <string name="volume_dialog_ringer_guidance_normal">Звуки звонка и уведомлений включены</string>
+
+    <!-- SystemUI Restart -->
+    <string name="systemui_restart_title">Требуется перезагрузка SystemUI</string>
+    <string name="systemui_restart_message">Для применения всех эффектов необходима перезагрузка SystemUI. Перезагрузить SystemUI сейчас?</string>
+
+    <!-- Clipboard access toast -->
+    <string name="app_clipboard_access_denied">%1$s запрещен доступ к буферу обмена</string>
+    <string name="app_clipboard_access_granted">%1$s разрешен доступ к буферу обмена</string>
+
+    <!-- LiveDisplay strings -->
+    <string name="live_display_title" translatable="false">LiveDisplay</string>
+    <string name="live_display_auto">Автоматический</string>
+    <string name="live_display_auto_summary">Автоматическая настройка цветовой температуры экрана после захода и восхода солнца</string>
+    <string name="live_display_off">Отключен</string>
+    <string name="live_display_off_summary">Отключить все настройки</string>
+    <string name="live_display_day">День</string>
+    <string name="live_display_day_summary">Использовать только дневные настройки</string>
+    <string name="live_display_night">Ночь</string>
+    <string name="live_display_night_summary">Использовать только ночные настройки</string>
+    <string name="live_display_outdoor">На улице (яркое солнце)</string>
+    <string name="live_display_outdoor_summary">Использовать только уличные настройки</string>
+    <string name="live_display_hint">LiveDisplay может помочь уменьшить напряжение глаз и помочь вам спать по ночам. Нажмите здесь, чтобы попробовать это!</string>
+    <string name="accessibility_quick_settings_live_display_off">LiveDisplay отключен.</string>
+    <string name="accessibility_quick_settings_live_display_auto">LiveDisplay: автоматический режим.</string>
+    <string name="accessibility_quick_settings_live_display_day">LiveDisplay: дневной режим.</string>
+    <string name="accessibility_quick_settings_live_display_night">LiveDisplay: ночной режим.</string>
+    <string name="accessibility_quick_settings_live_display_outdoor">LiveDisplay: на улице.</string>
+    <string name="accessibility_quick_settings_live_display_changed_off">LiveDisplay отключен.</string>
+    <string name="accessibility_quick_settings_live_display_changed_auto">LiveDisplay переключен в автоматический режим.</string>
+    <string name="accessibility_quick_settings_live_display_changed_day">LiveDisplay переключен в дневной режим.</string>
+    <string name="accessibility_quick_settings_live_display_changed_night">LiveDisplay переключен в ночной режим.</string>
+    <string name="accessibility_quick_settings_live_display_changed_outdoor">LiveDisplay переключен в режим улицы.</string>
+
+    <!-- Pocket Lock -->
+    <string name="pocket_view_title">Активирован режим кармана</string>
+    <string name="pocket_view_title_cancel">Для использования телефонаа необходимо:</string>
+    <string name="pocket_view_top_tag_cancel">Проверьте, свободна ли синяя область вашего телефона от каких-либо препятствий, и очистите ее от грязи или пыли.</string>
+    <string name="pocket_view_top_tag_cancel2">Отключите режим кармана длительным нажатием кнопки питания.</string>
+    <string name="pocket_view_top_tag_number1" translatable="false">1.\u0020</string>
+    <string name="pocket_view_top_tag_number2" translatable="false">2.\u0020</string>
+
+    <!-- [CHAR LIMIT=NONE] Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+    <string name="permlab_accessFontManager">доступ к менеджеру скриптов</string>
+    <!-- [CHAR LIMIT=NONE] Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+    <string name="permdesc_accessFontManager">Позволяет приложению получить доступ к менеджеру шрифтов.</string>
+
+    <!-- [CHAR LIMIT=NONE] Error when a package is installed but got the missing fonts.xml file, notifying the user why it isn't showing up. -->
+    <string name="fontservice_incompatible_font">Установленный вами пакет шрифтов несовместим из-за отсутствия fonts.xml в файле. Пожалуйста, свяжитесь с разработчиком пакета для получения поддержки.</string>
+
+</resources>
