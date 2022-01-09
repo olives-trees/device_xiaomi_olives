@@ -106,7 +106,7 @@
 
     <!-- Ancient About -->
     <string name="firmware_ancient_title">Об AncientOS</string>
-    <string name="firmware_ancient_summary">Узнайте, с чего начинается ancientOS</string>
+    <string name="firmware_ancient_summary">Узнайте, с чего начинается AncientOS</string>
 
     <!-- Ancient version -->
     <string name="ancient_version">Версия AncientOS</string>
@@ -140,7 +140,7 @@
 
     <!-- Hardware Information -->
     <string name="hardware_information">Информация об оборудовании</string>
-    <string name="hardware_information_summary">Информация об оборудовании</string>
+    <string name="hardware_information_summary">Модель, IMEI и другая информация</string>
 
     <!-- Device Name -->
     <string name="about_device_name">Устройство</string>
