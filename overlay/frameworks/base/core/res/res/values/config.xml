@@ -506,6 +506,9 @@
     <!-- Enable gestures customizations -->
     <bool name="config_custom_swipe_up_gesture_setting_available">true</bool>
 
+    <!-- Disable rounded corners on windows to improve graphics performance -->
+    <bool name="config_supportsRoundedCornersOnWindows">true</bool>
+
     <!-- Controls the navigation bar interaction mode:
          0: 3 button mode (back, home, overview buttons)
          1: 2 button mode (back, home buttons + swipe up for overview)
