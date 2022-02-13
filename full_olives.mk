@@ -30,4 +30,8 @@ TARGET_INCLUDE_STOCK_ARCORE := false
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME=olives
+    PRODUCT_NAME="olives" \
+    PRIVATE_BUILD_DESC="olive-user 10 QKQ1.191014.001 V12.5.5.0.QCNMIXM release-keys"
+
+# Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
+BUILD_FINGERPRINT := "Xiaomi/olive/olive:10/QKQ1.191014.001/V12.5.5.0.QCNMIXM:user/release-keys"
